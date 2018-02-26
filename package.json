@@ -1,5 +1,5 @@
 {
-    "name": "audio",
+    "name": "@scottishcyclops/node-audio",
     "version": "1.0.0",
     "description": "Simple audio helper package for node, using picoTTS for saying text",
     "main": "index.js",
