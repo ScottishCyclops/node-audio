@@ -1,0 +1,18 @@
+{
+    "name": "audio",
+    "version": "1.0.0",
+    "description": "Simple audio helper package for node, using picoTTS for saying text",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "audio",
+        "player",
+        "utility"
+    ],
+    "author": "Scott Winkelmann",
+    "license": "MIT",
+    "dependencies": {
+    }
+}
